@@ -20,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdoganpeker&show_icons=true&locale=en&layout=compact" alt="erdoganpeker" /></p>
 
+![snake gif](https://github.com/ErdoganPeker/ErdoganPeker/blob/output/github-contribution-grid-snake.gif)
