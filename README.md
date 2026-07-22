@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer · AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Vision +, ML+and+AI+THINGS;Harran+University+%C3%97+AGH+Krakow+(Erasmus)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Vision+,ML+and+AI+THINGS;Harran+University+%C3%97+AGH+Krakow+(Erasmus)" alt="Typing SVG" />
 </p>
 
 ## About Me
