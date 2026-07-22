@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erdoğan Yasin Peker 👋</h1>
-<h3 align="center">Computer Engineering Student · Multimodal AI Enthusiast (CV + LLM + Whisper)</h3>
+<h3 align="center">Computer Engineer · Multimodal AI Enthusiast (CV + LLM + Whisper)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+FastAPI-powered+ML%2FDL+demos;Computer+Vision+%2B+LLM+%2B+Whisper;Harran+University+%C3%97+AGH+Krakow+(Erasmus)" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🎓 Final-year **Computer Engineering** student at **Harran University**, with an **Erasmus exchange at AGH University of Krakow** (Poland)
+- 🎓 **Computer Engineering** graduate from **Harran University**, with an **Erasmus exchange at AGH University of Krakow** (Poland)
 - 🤖 Currently focused on **multimodal AI** — combining Computer Vision, Large Language Models, and Whisper-based speech processing
 - 📊 I build end-to-end ML/DL projects on real-world datasets and ship them with live **FastAPI** demo interfaces, not just notebooks
 - 🌱 Exploring reinforcement learning, real-time audio processing, and applied deep learning
