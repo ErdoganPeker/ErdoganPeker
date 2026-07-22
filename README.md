@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erdoğan Yasin Peker 👋</h1>
-<h3 align="center">Computer Engineer · Multimodal AI Enthusiast (CV + LLM + Whisper)</h3>
+<h3 align="center">Computer Engineer · AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+FastAPI-powered+ML%2FDL+demos;Computer+Vision+%2B+LLM+%2B+Whisper;Harran+University+%C3%97+AGH+Krakow+(Erasmus)" alt="Typing SVG" />
@@ -14,41 +14,6 @@
 - 💬 Ask me about **machine learning pipelines, computer vision, and applied AI systems**
 - 📫 Reach me at **erdoganpeker4@gmail.com**
 
----
-
-## Featured Projects
-
-Every project below ships with a working FastAPI demo, is trained/tested on a real dataset, and reports real evaluation metrics — no toy data.
-
-### Machine Learning & Predictive Models
-
-| Project | Description | Model & Dataset | Result |
-|---|---|---|---|
-| [Titanic Survival Prediction](https://github.com/ErdoganPeker/Titanic-Survival-Prediction) | Predicts passenger survival with historical comparison view | RandomForest · real Titanic dataset | **79.7% accuracy** |
-| [Obesity Level Prediction](https://github.com/ErdoganPeker/Obesity-Level-Prediction) | 7-class obesity risk assessment from lifestyle & health data | RandomForest · real UCI dataset | **95.7% accuracy** |
-| [India House Price Prediction](https://github.com/ErdoganPeker/India-House-Price-Prediction) | Real estate price estimation from scraped listing data | GradientBoosting · 187K-row scraped Kaggle dataset | **R² = 0.80** |
-| [Store Sales Evaluation](https://github.com/ErdoganPeker/Store-Sales-Evaluation) | Retail sales forecasting for a multi-store chain | RandomForest · real Favorita (Ecuador) competition data | **R² = 0.83** |
-| [Araba Fiyat Tahmini](https://github.com/ErdoganPeker/Araba-Fiyat-Tahmini) | Used car price prediction | GradientBoosting · real Indian used-car dataset | **R² = 0.89** |
-| [Student Evaluation System — BTK Academy Competition](https://github.com/ErdoganPeker/Student-Evaluation-System-BTK-Academy-Competition) | Scholarship eligibility scoring | RandomForest · real 65K-record Turkish scholarship dataset | **R² = 0.62** |
-| [Student Performance Evaluation](https://github.com/ErdoganPeker/Student-Performance-Evaluation) | Academic performance prediction from student attributes | RandomForest · real student performance dataset | **R² = 0.93** |
-
-### Deep Learning & Real-Time AI
-
-| Project | Description | Approach |
-|---|---|---|
-| [Reinforcement Learning Projects](https://github.com/ErdoganPeker/Reinforcement-Learning-Projects-Q-Learning-Deep-Q-Learning-and-Convolutional-Q-Learning.) | Q-Learning, DQN, and Conv-DQN agents with live SSE training visualization | PyTorch · 3 real RL algorithms |
-| [Real-Time Voice and Emotion Processing](https://github.com/ErdoganPeker/Real-Time-Voice-and-Emotion-Processing) | Real-time speech-to-text with emotion analysis, streamed over WebSocket | Whisper STT + librosa DSP |
-
-### Systems & Simulations
-
-| Project | Description | Approach |
-|---|---|---|
-| [Smart Cleaning Robot](https://github.com/ErdoganPeker/Smart-Cleaning-Robot) | Path-planning robot simulation with battery/dirt modeling | BFS-based pathfinding · algorithm comparison |
-| [Bus Management System](https://github.com/ErdoganPeker/Bus-Management-System) | Ticket reservation system with interactive seat maps | Full-stack booking logic |
-| [Disaster Relief System](https://github.com/ErdoganPeker/Disaster-Relief-System) | Coordination tool for disaster response resource allocation | Priority-scoring algorithm |
-| [Pet Care Simulator](https://github.com/ErdoganPeker/Pet_Care_Simulator) | Tamagotchi-style virtual pet simulation | Ported from C · real-time state tracking |
-
----
 
 ## Tech Stack
 
