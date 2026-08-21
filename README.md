@@ -33,18 +33,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
 
-## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ErdoganPeker&show_icons=true&theme=default&count_private=true" alt="Erdoğan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErdoganPeker&layout=compact&show_icons=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErdoganPeker" alt="GitHub Streak" />
-</p>
 
 ---
 
